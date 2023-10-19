@@ -18,4 +18,4 @@ Key Features:
 
     Sliding Delete Option: The app offers a sliding delete feature, allowing users to easily delete transactions with a swipe gesture.
 
-    Financial Overview: The app provide
+   
